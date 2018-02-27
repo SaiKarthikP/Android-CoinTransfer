@@ -1,4 +1,4 @@
-package com.transfer.cs480.bitexchange;
+package com.cointransfer.android.cointransfer;
 
 import org.junit.Test;
 
